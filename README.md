@@ -1,4 +1,5 @@
 # HelloWorld
-Estudos iniciais
+Estudos iniciais - Learning how this works.
 
-Learning how this works.
+Este será o meu primeiro commit. 
+\0/
